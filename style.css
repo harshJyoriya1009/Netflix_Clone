@@ -11,7 +11,7 @@ body {
 }
 
 .main {
-    background-image: url("img/images.jpg");
+    background-image: url("img/mainBackground.jpg");
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
@@ -271,6 +271,7 @@ footer .questions {
     footer {
         max-width: 90vw;
         padding: 75px 0;
+        /* display: inline-block; */
     }
 
     .footer-item{
