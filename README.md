@@ -15,6 +15,7 @@ This project is a clone of the Netflix India landing page. It provides a simple,
 -Animations & Video Backgrounds: Uses video and image backgrounds to enhance the user experience.
 
 **Technologies Used**
+
 -HTML: Structure of the web page.
 -CSS: Styling and layout of the webpage, including responsiveness and animations.
 -JavaScript (optional): Not actively used in this static layout but can be added for interactive features in the future.
@@ -34,6 +35,7 @@ This project is a clone of the Netflix India landing page. It provides a simple,
 ```
 
 # How to Run the Project
+
 1. Clone the repository: Clone the repository to your local machine using the following command:
  ```bash
 git clone https://github.com/your-username/netflix-india-clone.git
@@ -42,6 +44,7 @@ git clone https://github.com/your-username/netflix-india-clone.git
 Alternatively, you can run a local server using tools like VS Code Live Server or any HTTP server to view it in the browser.
 
 **Design Inspiration**
+
 This project is inspired by the Netflix India landing page, which features the iconic Netflix branding, a call-to-action to join Netflix, and showcases the streaming service’s key features and benefits.
 
 Screenshots
