@@ -1,4 +1,4 @@
-#Netflix India Landing Page Clone
+#Netflix India Landing Page Clone <br>
 This project is a clone of the Netflix India landing page. It provides a simple, responsive, and interactive user interface for users to explore Netflix’s services, including its movies, TV shows, and subscription plans.
 
 **Features
