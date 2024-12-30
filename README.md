@@ -2,6 +2,7 @@
 This project is a clone of the Netflix India landing page. It provides a simple, responsive, and interactive user interface for users to explore Netflix’s services, including its movies, TV shows, and subscription plans.
 
 **Features**
+
 -Responsive Design: The layout adjusts to different screen sizes, ensuring that users have an optimal experience on both desktops and mobile devices.
 -Hero Section: Highlights the benefits of Netflix with a sign-up form and a call-to-action button ("Get Started").
 -Multiple Sections: Several sections showcasing Netflix's services:
